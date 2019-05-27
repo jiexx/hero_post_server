@@ -1,0 +1,146 @@
+ runnable : {"pageSize":1010,"index":18} 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=0&pageHelp.beginPage=0&pageHelp.cacheSize=1 
+ runnable : undefined 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=7&pageHelp.beginPage=7&pageHelp.cacheSize=1 
+ runnable : undefined 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=8&pageHelp.beginPage=8&pageHelp.cacheSize=1 
+ runnable : undefined 
+ runnable stock : 1010 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=10&pageHelp.beginPage=10&pageHelp.cacheSize=1 
+ runnable : undefined 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=15&pageHelp.beginPage=15&pageHelp.cacheSize=1 
+ runnable : undefined 
+ runnable stock : 1010 
+ runnable stock : 1010 
+ runnable stock : 1010 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=14&pageHelp.beginPage=14&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=2&pageHelp.beginPage=2&pageHelp.cacheSize=1 
+ runnable : undefined 
+ runnable : undefined 
+ runnable stock : 1010 
+ runnable stock : 1010 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=12&pageHelp.beginPage=12&pageHelp.cacheSize=1 
+ runnable : undefined 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=16&pageHelp.beginPage=16&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=13&pageHelp.beginPage=13&pageHelp.cacheSize=1 
+ runnable : undefined 
+ runnable : undefined 
+ runnable stock : 1010 
+ runnable stock : 1010 
+ runnable stock : 1010 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=9&pageHelp.beginPage=9&pageHelp.cacheSize=1 
+ runnable : undefined 
+ runnable stock : 1010 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=11&pageHelp.beginPage=11&pageHelp.cacheSize=1 
+ runnable : undefined 
+ runnable stock : 1010 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=6&pageHelp.beginPage=6&pageHelp.cacheSize=1 
+ runnable : undefined 
+ runnable stock : 1010 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=19&pageHelp.beginPage=19&pageHelp.cacheSize=1 
+ runnable : undefined 
+ runnable stock : 1010 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=1&pageHelp.beginPage=1&pageHelp.cacheSize=1 
+ runnable : undefined 
+ runnable stock : 1010 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=18&pageHelp.beginPage=18&pageHelp.cacheSize=1 
+ runnable : undefined 
+ runnable stock : 1010 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=4&pageHelp.beginPage=4&pageHelp.cacheSize=1 
+ runnable : undefined 
+ runnable stock : 1010 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=3&pageHelp.beginPage=3&pageHelp.cacheSize=1 
+ runnable : undefined 
+ runnable stock : 1010 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=5&pageHelp.beginPage=5&pageHelp.cacheSize=1 
+ runnable : undefined 
+ runnable stock : 1010 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=17&pageHelp.beginPage=17&pageHelp.cacheSize=1 
+ runnable : undefined 
+ runnable stock : 1010 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=0&pageHelp.beginPage=0&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=1&pageHelp.beginPage=1&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=8&pageHelp.beginPage=8&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=7&pageHelp.beginPage=7&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=10&pageHelp.beginPage=10&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=14&pageHelp.beginPage=14&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=11&pageHelp.beginPage=11&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=2&pageHelp.beginPage=2&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=9&pageHelp.beginPage=9&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=12&pageHelp.beginPage=12&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=4&pageHelp.beginPage=4&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=5&pageHelp.beginPage=5&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=13&pageHelp.beginPage=13&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=16&pageHelp.beginPage=16&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=15&pageHelp.beginPage=15&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=19&pageHelp.beginPage=19&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=3&pageHelp.beginPage=3&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=17&pageHelp.beginPage=17&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=18&pageHelp.beginPage=18&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=6&pageHelp.beginPage=6&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=0&pageHelp.beginPage=0&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=0&pageHelp.beginPage=0&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=15&pageHelp.beginPage=15&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=12&pageHelp.beginPage=12&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=4&pageHelp.beginPage=4&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1000&pageHelp.pageNo=20&pageHelp.beginPage=20&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=17&pageHelp.beginPage=17&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=16&pageHelp.beginPage=16&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=7&pageHelp.beginPage=7&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=9&pageHelp.beginPage=9&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=13&pageHelp.beginPage=13&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=1&pageHelp.beginPage=1&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=7&pageHelp.beginPage=7&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=6&pageHelp.beginPage=6&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=19&pageHelp.beginPage=19&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=11&pageHelp.beginPage=11&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=15&pageHelp.beginPage=15&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=19&pageHelp.beginPage=19&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1000&pageHelp.pageNo=20&pageHelp.beginPage=20&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=2&pageHelp.beginPage=2&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=11&pageHelp.beginPage=11&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=18&pageHelp.beginPage=18&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=13&pageHelp.beginPage=13&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=0&pageHelp.beginPage=0&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=4&pageHelp.beginPage=4&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1000&pageHelp.pageNo=20&pageHelp.beginPage=20&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=3&pageHelp.beginPage=3&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=15&pageHelp.beginPage=15&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=19&pageHelp.beginPage=19&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=14&pageHelp.beginPage=14&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=9&pageHelp.beginPage=9&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=7&pageHelp.beginPage=7&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=6&pageHelp.beginPage=6&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=8&pageHelp.beginPage=8&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=18&pageHelp.beginPage=18&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=12&pageHelp.beginPage=12&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=11&pageHelp.beginPage=11&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=16&pageHelp.beginPage=16&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=5&pageHelp.beginPage=5&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=10&pageHelp.beginPage=10&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=1&pageHelp.beginPage=1&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=2&pageHelp.beginPage=2&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=13&pageHelp.beginPage=13&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=17&pageHelp.beginPage=17&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=0&pageHelp.beginPage=0&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=1&pageHelp.beginPage=1&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=6&pageHelp.beginPage=6&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1000&pageHelp.pageNo=20&pageHelp.beginPage=20&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=7&pageHelp.beginPage=7&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=5&pageHelp.beginPage=5&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=3&pageHelp.beginPage=3&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=4&pageHelp.beginPage=4&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=19&pageHelp.beginPage=19&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=13&pageHelp.beginPage=13&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=17&pageHelp.beginPage=17&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=14&pageHelp.beginPage=14&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=2&pageHelp.beginPage=2&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=10&pageHelp.beginPage=10&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=9&pageHelp.beginPage=9&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=8&pageHelp.beginPage=8&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=18&pageHelp.beginPage=18&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=11&pageHelp.beginPage=11&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=15&pageHelp.beginPage=15&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=16&pageHelp.beginPage=16&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1010&pageHelp.pageNo=12&pageHelp.beginPage=12&pageHelp.cacheSize=1 
+ runnable : http://query.sse.com.cn/commonQuery.do?isPagination=true&sqlId=COMMON_SSE_XXPL_CXJL_SSGSGFBDQK_S&pageHelp.pageSize=1011&pageHelp.pageNo=0&pageHelp.beginPage=0&pageHelp.cacheSize=1

@@ -1,0 +1,40 @@
+3 http://www.cross-platform-blog.com/tools/nodejs/typescript/visual-studio-code-nodejs-with-typescript-and-debugging/
+npm install typescript –g
+# in vsc terminal  short key:[Ctrl] + [`]
+npm init –y
+npm install @types/node --save-dev 
+npm install -g typescript
+npm install -g canvas
+
+npm install -g ejs
+npm install -g xml2js
+
+npm install urlencode
+
+npm link @types/node
+npm link jsonwebtoken
+npm link mysql
+npm link shortid
+npm link express 
+npm link passport
+npm link passport-jwt
+npm link trek-captcha
+npm link crypto
+npm link ejs
+npm link cron
+npm link body-parser
+npm link multer
+npm link sharp
+npm link simplebig
+npm link request-promise-native
+npm link uuid
+npm link request
+npm link canvas
+
+
+npm install -g qr-image
+npm link qr-image
+
+https://fettblog.eu/typescript-node-visual-studio-code/
+
+tsc -p .

@@ -1,0 +1,4 @@
+{
+    "sql": "call stock.get_holdstock_by_company_code(?);", 
+    "params": ["companycode"]
+}

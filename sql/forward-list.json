@@ -1,0 +1,4 @@
+{
+    "sql": "SELECT ID, AVATAR, NICKNAME, COUNTS  FROM users.users as a left join (SELECT CUSTOMERID,count(*) as COUNTS FROM orders.item group by customerid) as b ON a.ID = b.CUSTOMERID WHERE ID IN (n?) limit n?, 20;", 
+    "params": ["userids","pgidx"]
+}

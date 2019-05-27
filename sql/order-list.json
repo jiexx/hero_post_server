@@ -1,0 +1,5 @@
+{
+    "sql": "SELECT a.*, d.NAME, b.TITLE FROM orders.item a LEFT JOIN product.poster b ON a.POSTERID = b.FD LEFT JOIN product.item d ON b.PRODUCTID = d.ID  order by a.CREATETIME  desc LIMIT n?, 20;", 
+    "params": ["pgidx"],
+    "page": { "sql": "SELECT ceil(count(*)/20) as count, count(*) as total FROM orders.item;" }
+}

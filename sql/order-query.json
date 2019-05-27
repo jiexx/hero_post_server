@@ -1,0 +1,4 @@
+{
+    "sql": "SELECT a.*, b.TITLE,b.KEEPERID,d.NAME,d.PRICE,c.AVATAR,c.USERNAME,c.TEL FROM orders.item a LEFT JOIN product.poster b ON a.POSTERID = b.FD LEFT JOIN product.item d ON b.PRODUCTID = d.ID LEFT JOIN users.users c ON a.CUSTOMERID = c.ID  WHERE a.ID = ?;", 
+    "params": ["orderid"]
+}

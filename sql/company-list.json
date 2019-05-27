@@ -1,0 +1,8 @@
+{
+    "sql": "SELECT distinct concat(COMPANY_CODE, ' ', COMPANY_ABBR) as COMPANY_ABBR, COMPANY_CODE  FROM stock.shares_change order by COMPANY_ABBR;", 
+        "params": [""],
+    "today":{"sql": "SELECT  COMPANY_ABBR, COMPANY_CODE, GROUP_CONCAT(NAME, CONCAT('(',DUTY,')'), CHANGE_NUM)  as info FROM stock.shares_change where date(form_date) = ? GROUP BY COMPANY_CODE, COMPANY_ABBR;", 
+        "params": ["today"]},
+    "yesterday":{"sql": "SELECT  COMPANY_ABBR, COMPANY_CODE, GROUP_CONCAT(NAME, CONCAT('(',DUTY,')'), CHANGE_NUM)  as info FROM stock.shares_change where date(form_date) = ? GROUP BY COMPANY_CODE, COMPANY_ABBR;", 
+        "params": ["yesterday"]}
+}

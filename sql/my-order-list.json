@@ -1,0 +1,5 @@
+{
+    "sql": "SELECT a.*, d.NAME,d.PRICE,c.AVATAR,c.USERNAME,c.TEL FROM orders.item a LEFT JOIN product.poster b ON a.POSTERID = b.FD LEFT JOIN product.item d ON b.PRODUCTID = d.ID LEFT JOIN users.users c ON a.CUSTOMERID = c.ID WHERE a.CUSTOMERID=?  order by a.CREATETIME  desc LIMIT n?, 20;", 
+    "params": ["userid","pgidx"],
+    "page": { "sql": "SELECT ceil(count(*)/20) as count, count(*) as total FROM orders.item WHERE a.CUSTOMERID=? ;" }
+}

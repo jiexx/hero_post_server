@@ -1,0 +1,4 @@
+{
+    "sql": "SELECT  count(*) as todayCount FROM stock.shares_change where date(form_date) = ? ", 
+        "params": ["today"]
+}
